@@ -7,14 +7,15 @@ basic_info:
   motto: Apasionado por aprender
   focus: Full Stack + Data Science
   summary: |
-  Estudiante de programación en 4Geeks Academy, enfocado en desarrollo web y data science.
-  avatar: avatar: https://i.imgur.com/507zsU7.jpeg
+    Estudiante de programación en 4Geeks Academy, enfocado en desarrollo web y data science.
+  avatar: https://i.imgur.com/507zsU7.jpeg
   email: 
   phone: 
   website: 
   linkedin: www.linkedin.com/in/elreno
   github: https://github.com/Elreno23
-  stack-overflow: 
+  stack-overflow:
+
 
   languages:
     - idiom: Español
